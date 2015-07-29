@@ -1,55 +1,55 @@
 <!ENTITY enigmail.label                   "Enigmail">
 <!ENTITY enigmail.openpgp.label           "OpenPGP">
 
-<!ENTITY enigmail.keyUserId.label         "Account / User ID">
-<!ENTITY enigmail.keygenTitle.label       "Generate OpenPGP Key">
-<!ENTITY enigmail.useForSigning.label     "Use generated key for the selected identity">
-<!ENTITY enigmail.keyComment.label        "Comment">
-<!ENTITY enigmail.keyNoPassphrase.label   "No passphrase">
-<!ENTITY enigmail.keyPassphrase.label     "Passphrase">
-<!ENTITY enigmail.keyPassphraseRepeat.label "Passphrase (repeat)">
-<!ENTITY enigmail.generateKey.tooltip     "Generates a new OpenPGP compliant key for encryption and/or signing">
-<!ENTITY enigmail.cancelKey.label         "Cancel">
-<!ENTITY enigmail.cancelKey.tooltip       "Cancel Key Generation">
-<!ENTITY enigmail.keyGen.expiry.title     "Key expiry">
-<!ENTITY enigmail.keyGen.expire.label     "Key expires in">
-<!ENTITY enigmail.keyGen.days.label       "days">
-<!ENTITY enigmail.keyGen.months.label     "months">
-<!ENTITY enigmail.keyGen.years.label      "years">
-<!ENTITY enigmail.keyGen.noExpiry.label   "Key does not expire">
-<!ENTITY enigmail.keyGen.keySize.label    "Key size">
-<!ENTITY enigmail.keyGen.console.label    "Key Generation Console">
-<!ENTITY enigmail.keyGen.keyType.label    "Key type">
+<!ENTITY enigmail.keyUserId.label         "Cont / ID utilizator">
+<!ENTITY enigmail.keygenTitle.label       "Generează cheie OpenPGP">
+<!ENTITY enigmail.useForSigning.label     "Cheie generată de utilizator pentru identitatea selectată">
+<!ENTITY enigmail.keyComment.label        "Comentariu">
+<!ENTITY enigmail.keyNoPassphrase.label   "Fără frază secretă">
+<!ENTITY enigmail.keyPassphrase.label     "Frază secretă">
+<!ENTITY enigmail.keyPassphraseRepeat.label "Frază secretă (repetat)">
+<!ENTITY enigmail.generateKey.tooltip     "Generează o nouă cheie OpenPGP pentru criptare și/sau semnare">
+<!ENTITY enigmail.cancelKey.label         "Anulează">
+<!ENTITY enigmail.cancelKey.tooltip       "Anulează generarea cheii">
+<!ENTITY enigmail.keyGen.expiry.title     "Expirare cheie">
+<!ENTITY enigmail.keyGen.expire.label     "Cheia expiră în">
+<!ENTITY enigmail.keyGen.days.label       "zile">
+<!ENTITY enigmail.keyGen.months.label     "luni">
+<!ENTITY enigmail.keyGen.years.label      "ani">
+<!ENTITY enigmail.keyGen.noExpiry.label   "Cheia nu expiră">
+<!ENTITY enigmail.keyGen.keySize.label    "Mărimea cheii">
+<!ENTITY enigmail.keyGen.console.label    "Consolă generare cheie">
+<!ENTITY enigmail.keyGen.keyType.label    "Tip cheie">
 <!ENTITY enigmail.keyGen.keyType.dsa      "DSA &amp; El Gamal">
 <!ENTITY enigmail.keyGen.keyType.rsa      "RSA">
 
-<!ENTITY enigmail.preferences.label       "Enigmail Preferences">
+<!ENTITY enigmail.preferences.label       "Preferințe Enigmail">
 
-<!ENTITY enigmail.passwordSettings.label   "Passphrase settings">
-<!ENTITY enigmail.userNoPassphrase.label   "Never ask for any passphrase">
-<!ENTITY enigmail.userNoPassphrase.tooltip "Activate if your OpenPGP key is not protected by a passphrase.">
-<!ENTITY enigmail.expertUserMenus.label    "Display Expert Settings and Menus">
-<!ENTITY enigmail.expertUser.tooltip       "Press if you want to see menu items and options for advanced users.">
-<!ENTITY enigmail.basicUserMenus.label     "Hide Expert Settings and Menus">
-<!ENTITY enigmail.basicUser.tooltip        "Press if you do not want to see menu items and options for advanced users.">
+<!ENTITY enigmail.passwordSettings.label   "Setări frază secretă">
+<!ENTITY enigmail.userNoPassphrase.label   "Nu mă întreba niciodată pentru o frază secretă">
+<!ENTITY enigmail.userNoPassphrase.tooltip "Activează dacă cheia OpenPGP nu e protejată de o frază secretă.">
+<!ENTITY enigmail.expertUserMenus.label    "Afișare meniuri și setări expert">
+<!ENTITY enigmail.expertUser.tooltip       "Apasă dacă dorești să vezi părți de meniu și opțiuni pentru utilizatorii avansați.">
+<!ENTITY enigmail.basicUserMenus.label     "Ascunde setările și meniurile expert">
+<!ENTITY enigmail.basicUser.tooltip        "Apasă dacă nu dorești să vezi părți de meniu și opțiuni pentru utilizatori avansați.">
 
-<!ENTITY enigmail.prefs.pathsTitle.label      "Files and Directories">
-<!ENTITY enigmail.prefs.overrideGpg.label     "Override with">
-<!ENTITY enigmail.prefs.overrideGpg.tooltip   "Click to specify a location for GnuPG">
-
-
-<!ENTITY enigmail.agentAdditionalParam.label    "Additional parameters for GnuPG">
-<!ENTITY enigmail.agentAdditionalParam.tooltip  "Specify options that will be used by GnuPG.">
-
-<!ENTITY enigmail.mime_parts_on_demand.label  "Only download attachments when opened (IMAP only)">
+<!ENTITY enigmail.prefs.pathsTitle.label      "Fișiere și directoare">
+<!ENTITY enigmail.prefs.overrideGpg.label     "Altă locație decât cea implicită">
+<!ENTITY enigmail.prefs.overrideGpg.tooltip   "Clic pentru a specifica o locație pentru GnuPG">
 
 
-<!ENTITY enigmail.maxIdleMinutesHead.label "Remember passphrase for">
-<!ENTITY enigmail.maxIdleMinutesTail.label "minutes of idle time">
-<!ENTITY enigmail.maxIdleMinutes.tooltip   "Cache passphrase in memory for a limited time.">
+<!ENTITY enigmail.agentAdditionalParam.label    "Alți parametru pentru GnuPG">
+<!ENTITY enigmail.agentAdditionalParam.tooltip  "Specificați opțiuni ce vor fi folosite de GnuPG.">
 
-<!ENTITY enigmail.resetPrefsButton.label "Reset">
-<!ENTITY enigmail.resetPrefs.tooltip     "Set all Enigmail preferences back to their default value.">
+<!ENTITY enigmail.mime_parts_on_demand.label  "Descărcați atașamentele doar la deschidere (doar pentru IMAP)">
+
+
+<!ENTITY enigmail.maxIdleMinutesHead.label "Ține minte fraza secretă pentru ">
+<!ENTITY enigmail.maxIdleMinutesTail.label "minute de inactivitate">
+<!ENTITY enigmail.maxIdleMinutes.tooltip   "Ține fraza secretă în memorie o perioadă limitată.">
+
+<!ENTITY enigmail.resetPrefsButton.label "Resetare">
+<!ENTITY enigmail.resetPrefs.tooltip     "Setează toate preferințele Enigmail înapoi la valorile implicite.">
 
 <!ENTITY enigmail.basic.label            "Basic">
 <!ENTITY enigmail.sending.label          "Sending">
